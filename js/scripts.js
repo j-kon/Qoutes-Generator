@@ -23,6 +23,7 @@ var quotes = [
 	['Memories of our lives, of our work and our deeds will continue in others.', 'Rosa Parks'],
 	['No matter what people tell you, words and ideas can change the world.', 'Robin Williams'],
 	['I believe in living today. Not in yesterday, nor in tomorrow.', 'Loretta Young']
+	['The two enemies of human happiness are pain and boredom.', 'Arthur Schopenhauer'],
 ];
 
 // ** - indicates code hasn't been written yet
